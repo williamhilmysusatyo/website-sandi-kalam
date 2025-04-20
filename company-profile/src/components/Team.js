@@ -1,9 +1,9 @@
 import React from "react";
 
 const Team = () => (
-  <section id="about">
-    <h2>About Our Company</h2>
-    <p>We are a tech-focused company providing awesome solutions.</p>
+  <section id="team" className="team light-section">
+      <h2>Tim Kami</h2>
+      <p>Kami terdiri dari profesional di bidang gizi, sosial, dan manajemen program.</p>
   </section>
 );
 

@@ -1,10 +1,14 @@
 import React from "react";
 
 const Services = () => (
-  <section id="about">
-    <h2>About Our Company</h2>
-    <p>We are a tech-focused company providing awesome solutions.</p>
-  </section>
+  <section id="service" className="service dark-section">
+      <h2>Layanan Kami</h2>
+      <ul>
+        <li>Pengelolaan Operasional Dapur Badan Gizi Nasional</li>
+        <li>Pengelolaan Lahan Parkir Rumah Sakit</li>
+        <li>Penyewaan Kendaraan Niaga</li>
+      </ul>
+    </section>
 );
 
 export default Services;

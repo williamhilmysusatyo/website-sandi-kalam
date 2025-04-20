@@ -1,9 +1,8 @@
 import React from "react";
 
 const Home = () => (
-  <section id="about">
-    <h2>About Our Company</h2>
-    <p>We are a tech-focused company providing awesome solutions.</p>
+  <section id="home" className="home dark-section">
+      <h1>Selamat Datang di Website CV. Sandi Kalam Indonesia</h1>
   </section>
 );
 
