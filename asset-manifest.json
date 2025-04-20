@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/williamhilmysusatyo/website-sandi-kalam.git/static/css/main.8c1899ef.css",
+    "main.js": "/williamhilmysusatyo/website-sandi-kalam.git/static/js/main.bead5d7b.js",
+    "static/js/453.d86ba3ef.chunk.js": "/williamhilmysusatyo/website-sandi-kalam.git/static/js/453.d86ba3ef.chunk.js",
+    "index.html": "/williamhilmysusatyo/website-sandi-kalam.git/index.html",
+    "main.8c1899ef.css.map": "/williamhilmysusatyo/website-sandi-kalam.git/static/css/main.8c1899ef.css.map",
+    "main.bead5d7b.js.map": "/williamhilmysusatyo/website-sandi-kalam.git/static/js/main.bead5d7b.js.map",
+    "453.d86ba3ef.chunk.js.map": "/williamhilmysusatyo/website-sandi-kalam.git/static/js/453.d86ba3ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c1899ef.css",
+    "static/js/main.bead5d7b.js"
+  ]
+}
